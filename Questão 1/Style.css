@@ -1,0 +1,39 @@
+body {
+	background-color: #00FFFF;
+}
+.a{
+	text-align: center;
+	font: 6;
+	font: Verdana;
+	
+}
+
+.b{
+	text-align: center;
+}
+
+.c{
+	font: Verdana;
+	font: 2;
+	
+}
+
+.d{
+	text-align: center;
+	font: Verdana;
+	font: 2;
+	
+}
+
+.e{
+	font: Verdana;
+	font: 1;
+	
+}
+
+.1{
+	border:0;
+	width:400;
+	height:300;
+}
+
